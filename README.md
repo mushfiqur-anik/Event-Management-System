@@ -28,7 +28,8 @@ This is an event management system that is built to help the customer manage dif
 * SportsCompetition.java
 
 ## Built With 
-* Java 
+* Java - The programming language used
+* Eclipse - The IDE used
 
 ## Author(s)
 

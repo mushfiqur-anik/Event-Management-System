@@ -28,8 +28,8 @@ This is an event management application that is built to help the customer manag
 * SportsCompetition.java
 
 ## Built With 
-* Java - The programming language used
-* Eclipse - The IDE used
+* [**Java**](https://en.wikipedia.org/wiki/Java_(programming_language)) - The programming language used
+* [**Eclipse**](https://en.wikipedia.org/wiki/Eclipse_(software)) - The IDE used 
 
 ## Author(s)
 

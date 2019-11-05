@@ -1,8 +1,8 @@
 # Event-Management-System
-This repository contains files for the Event-Management-System project for course Comp-249
+This repository contains files for the Event-Management-System project for Object Oriented Programming course Comp-249
 
 ## Description 
-This is an event management system that is built to help the customer manage different types of events happening all year round. The project makes use of programming concepts such as inheritance constructors, access rights, method overriding, package creation, etc. 
+This is an event management application that is built to help the customer manage different types of events happening all year round. This has features like searching for different types of events that are happening in the same year, also events that are taking place in most/least amount of cities. The project makes use of programming concepts such as inheritance constructors, access rights, method overriding, package creation, etc. 
 
 ## File List
 

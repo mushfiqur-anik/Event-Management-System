@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Event-Management-System
+This repository contains files for the Event-Management-System project for Object Oriented Programming course Comp-249
 
-You can use the [editor on GitHub](https://github.com/mushfiqur-anik/Event-Management-System/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Description 
+This is an event management application that is built to help the customer manage different types of events happening all year round. This has features like searching for different types of events that are happening in the same year, also events that are taking place in most/least amount of cities. The project makes use of programming concepts such as inheritance constructors, access rights, method overriding, package creation, etc. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## File List
 
-### Markdown
+### Java Packages
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Driver
+* Driver.java
 
-```markdown
-Syntax highlighted code block
+#### events
+* Event.java
 
-# Header 1
-## Header 2
-### Header 3
+#### fair 
+* Fair.java
+* FairType.java 
 
-- Bulleted
-- List
+#### festivals 
+* CulturalFiesta.java
+* Festival.java
+* MusicFiesta.java
 
-1. Numbered
-2. List
+#### sportsCompetition
+* SeasonName.java
+* SportsCompetition.java
 
-**Bold** and _Italic_ and `Code` text
+## Built With 
+* [**Java**](https://en.wikipedia.org/wiki/Java_(programming_language)) - The programming language used
+* [**Eclipse**](https://en.wikipedia.org/wiki/Eclipse_(software)) - The IDE used 
 
-[Link](url) and ![Image](src)
-```
+## Author(s)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* [**Mushfiqur Anik**](https://github.com/mushfiqur-anik)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mushfiqur-anik/Event-Management-System/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
